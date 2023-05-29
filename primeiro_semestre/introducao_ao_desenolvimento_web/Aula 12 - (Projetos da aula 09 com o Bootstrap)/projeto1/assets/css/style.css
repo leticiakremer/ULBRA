@@ -1,0 +1,17 @@
+.botao-menu {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+}
+
+.botao-menu:hover {
+    transition-duration: 1s;
+    color: white;
+    background-color: rgb(70, 64, 63);
+}
+
+.margin-bottom-menu {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,61 @@
+a {
+    text-decoration: none;
+    color: #8b8b8b;
+  }
+  
+  
+  /* cabeçalho */
+  .cabecalho {
+    background-color: #f7f7f7;
+  }
+  .nome {
+    color: #6d6d6d;
+  }
+  .nome:hover {
+    color: #525252;
+  }
+  
+  .nav-item a {
+    color: #8b8b8b;
+  }
+  
+
+  /* quem sou eu*/
+  .conteudo-perfil {
+    background-color: #978195;
+  }
+  .conteudo-perfil img {
+    max-width: 14rem;
+  }
+  
+  #como{
+    background-color:rgb(99, 94, 94);
+    padding: 10px;
+    color: aliceblue;
+}
+
+.imgtrab{
+    max-height: 200px;
+}
+
+#trabalhos{
+    display: flex;
+    justify-content: space-around;
+}
+
+#meustrabalhos{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+footer{
+ background-color:darkgrey;
+    text-align: center;
+    padding: 1px;
+}
+   
+  
+  /* rodapé */
+  .rodape {
+    background-color: #525252;
+  }

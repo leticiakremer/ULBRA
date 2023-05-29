@@ -1,0 +1,119 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(250, 227, 236);
+}
+
+h1 {
+    background-color: fuchsia;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 0px;
+    color: rgb(3, 185, 179);
+    text-align: left;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0px;
+    color: rgb(3, 185, 179);
+    text-align: left;
+}
+
+h4 {
+    margin-bottom: 0%;
+}
+
+hr {
+    margin-top: 0px;
+    border-color: hotpink;
+}
+
+p {
+    margin-top: 0%;
+}
+
+.tudo {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    border: solid 1px;
+}
+
+.linha {
+    clear: both;
+}
+
+.tituloDados {
+    color: rgb(3, 185, 179);
+}
+
+.itens {
+
+    float: left;
+}
+
+.circle {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(219, 57, 133);
+    border-radius: 50px;
+    float: right;
+    margin-left: 10px;
+}
+
+.icones {
+    max-width: 25px;
+}
+
+#foto {
+    width: 25%;
+    float: left;
+}
+
+#img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#contato {
+    font-size: 20px;
+}
+
+
+#objetivos {
+    text-align: justify;
+}
+
+#formacao {
+    text-align: left;
+}
+
+#coluna1 {
+    width: 45%;
+    text-align: left;
+    float: left;
+}
+
+#coluna2 {
+    background-color: rgb(219, 57, 133);
+    width: 2px;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 250px;
+    float: left;
+}
+
+#coluna3 {
+    width: 45%;
+    text-align: left;
+    float: left;
+    text-align: justify;
+}

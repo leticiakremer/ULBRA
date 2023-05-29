@@ -1,0 +1,62 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: rgb(99, 94, 94);
+    color:rgb(255, 255, 255);
+}
+
+menu{
+padding:15px
+}
+
+menu a{
+text-decoration: none;
+color: rgb(255, 255, 255);
+margin-right: 8px;
+}
+
+section{
+    text-align: center;
+}
+
+#quem{
+    background-color:rgb(218, 177, 238);
+    padding: 10px;
+}
+
+#fotoperfil{
+    max-height:250px;
+    border-radius: 50%;
+}
+
+#linkedin{
+    max-height:40px;
+}
+
+#como{
+    background-color:rgb(99, 94, 94);
+    padding: 10px;
+    color: aliceblue;
+}
+
+.imgtrab{
+    max-height: 200px;
+}
+
+#trabalhos{
+    display: flex;
+    justify-content: space-around;
+}
+
+#meustrabalhos{
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+footer{
+   background-color:darkgrey;
+    text-align: center;
+    padding: 1px;
+
+}
